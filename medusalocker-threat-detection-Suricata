@@ -1,0 +1,23 @@
+healthcare-ransomware-threat-intel-lab/
+│
+├── README.md
+├── hashes/
+│   ├── provided_hashes.txt
+│   └── malicious_hash_analysis.txt
+│
+├── threat_intelligence/
+│   ├── iocs_collected.txt
+│   ├── ransomware_research.md
+│   └── mitre_mapping.md
+│
+├── suricata/
+│   ├── custom_rules.rules
+│   ├── suricata.yaml
+│   └── alert_logs/
+│       └── validated_alerts.log
+│
+├── traffic_simulation/
+│   └── hping3_test_commands.txt
+│
+└── executive_report/
+    └── Executive_Threat_Intelligence_Report_Presentation.pptx
